@@ -1,0 +1,3 @@
+def duplicate_count(text):
+    s=text.lower()
+    
